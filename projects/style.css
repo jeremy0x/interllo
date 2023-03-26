@@ -13,8 +13,7 @@
 .grid-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  align-items: flex-start;
-  justify-content: center;
+  place-items: center;
   grid-gap: 5rem 2rem;
   padding-inline: 2rem;
 }

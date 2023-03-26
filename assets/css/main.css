@@ -2711,6 +2711,7 @@ blockquote {
   height: 100vh;
   padding-top: 5em;
   background-color: #030303;
+  display: flex;
 }
 .page_header_section.contact {
   height: auto;
